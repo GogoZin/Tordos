@@ -21,6 +21,12 @@ Simple Dos Scripts Use Tor Service
               
 ~# python3 tordos.py //運行腳本
 
-//威力不高 只是雛形 卻能達到不錯的匿蹤效果 未來會再更新這個Demo
+//威力不高 只是雛形 卻能達到不錯的匿蹤效果 未來會再更新這個Script
 
-//This Case Is A Demo, But Can Make You anonmy, I Will Update This Demo In Future
+//This Case Is In Beta Version, But Can Make You anonmy, I Will Update This Case In Future
+
+
+#####################################################################################################
+##             特別感謝我朋友 Leeon 幫忙修改這次的腳本 未來我若有出新的腳本 大概都會跟leeon合作         ##
+## Thanks For Leeon's Help, He Help Me To Fix This Scripts And I Will Keep Work With Him In Future ##
+#####################################################################################################
