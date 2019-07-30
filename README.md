@@ -23,7 +23,7 @@ Simple Dos Scripts Use Tor Service
 
 //威力不高 只是雛形 卻能達到不錯的匿蹤效果 未來會再更新這個Script
 
-//This Case Is In Beta Version, But Can Make You anonmy, I Will Update This Case In Future
+//This Case Is In Beta Version, But Can Make You , I Will Update This Case In Future
 
 
 #################################################################################################
