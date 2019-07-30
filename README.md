@@ -26,8 +26,8 @@ Simple Dos Scripts Use Tor Service
 //This Case Is In Beta Version, But Can Make You Be Hidden, I Will Update This Case In Future
 
 
-#################################################################################################
+###########################################################################################
              特別感謝我朋友 Leeon 幫忙修改這次的腳本 未來我若有出新的腳本 大概都會跟leeon合作         
  Thanks For Leeon's Help, He Help Me To Fix This Scripts And I Will Keep Work With Him In Future 
-#################################################################################################
+###########################################################################################
 Follow Leeon's Github : https://github.com/Leeon123
