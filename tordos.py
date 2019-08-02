@@ -1,3 +1,4 @@
+#code By GogoZin With Leeon
 import requests
 import os
 import random
