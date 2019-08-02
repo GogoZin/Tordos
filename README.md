@@ -13,13 +13,13 @@ Simple Dos Scripts Use Tor Service
 //#指令
 //#commands
 
-~# apt-get insatll screen tor //安裝screen 跟 tor 這兩個模組
+    ~# apt-get install screen tor //安裝screen 跟 tor 這兩個模組
 
-~# pip3 install pysocks //安裝Python的pysocks模組
+    ~# pip3 install pysocks //安裝Python的pysocks模組
 
-~# screen tor (當Bootstrapped 顯示100% 按住Ctrl + ad返回) //運行Tor
+    ~# screen tor (當Bootstrapped 顯示100% 按住Ctrl + ad返回) //運行Tor
               
-~# python3 tordos.py //運行腳本
+    ~# python3 tordos.py //運行腳本
 
 //威力不高 只是雛形 卻能達到不錯的匿蹤效果 未來會再更新這個Script
 
